@@ -11,5 +11,5 @@ const speed = 70;
 console.log(speed);
 let X = 5;
 let Y = 7;
-let z = x + y;
+let z = X + Y;
 console.log(z);
