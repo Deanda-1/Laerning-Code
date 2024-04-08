@@ -1,1 +1,11 @@
 console.log("Hello Mom");
+let message = "working on it";
+let price = 20;
+console.log(message);
+console.log(price);
+let x = 30;
+console.log(x);
+x = 30 + 10;
+console.log(x);
+const speed = 70;
+console.log(speed);
