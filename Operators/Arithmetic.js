@@ -1,3 +1,3 @@
-let x = 5, y = 7;
-let z = x + y;
+let X = 5, Y = 7;
+let z = X + Y;
 console.log(z);

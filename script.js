@@ -9,7 +9,15 @@ x = 30 + 10;
 console.log(x);
 const speed = 70;
 console.log(speed);
-let X = 5;
+//let X = 5;
+//let X = 35;
+let X = 2;
 let Y = 7;
-let z = X + Y;
+//let z = X + Y;
+//let z = X % Y;
+//let z = X ** Y;
+//x++
+x--;
+//z = x;
+z = x++;
 console.log(z);
