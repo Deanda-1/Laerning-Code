@@ -30,23 +30,80 @@
 // console.log(age);
 // let Z;
 // console.log(Z);
-let person = {
-    firstName: "Daenda",
-    lastName: "Noble",
-    age: 55,
-    eyeColor: "black"
-};
+// let person = {
+//   firstName: "Daenda",
+//   lastName: "Noble",
+//   age: 55,
+//   eyeColor: "black",
+// };
 // console.log(person);
 // console.log(person.firstName);
 // console.log(person.age);
 // console.log(typeof(person));
-let X = 5,
-str = "This is a string.",
-bool1 = true,
-var1 = null,
-var2;
-console.log(typeOf(X));
-console.log(typeOf(str));
-console.log(typeOf(bool));
-console.log(typeOf(var1));
-console.log(typeOf(var2));
+// let X = 5,
+//   str = "This is a string.",
+//   bool1 = true,
+//   var1 = null,
+//   var2;
+// console.log(typeOf(X));
+// console.log(typeOf(str));
+// console.log(typeOf(bool));
+// console.log(typeOf(var1));
+// console.log(typeOf(var2));
+// if (condition) {
+//   // block of code to be executed "if" the "condition" is (true)
+// }
+//  else {
+//   //block of code to be executed if the condition is (false)
+//  }
+//   else if (condition2) {
+//   // block of code to be executed if the condition1 is false end
+//   // condition2 is true
+//   }
+//  switch (exspression) {
+//    case x:
+//       // code block
+//       break;
+//    case y:
+//       // code block
+//       break;
+//   default:
+//       // code block
+ // }
+
+// currentTime = 25;
+// greeting = null;
+// if (currentTime > 18 && currentTime <= 24) {
+//   greeting = "Good Evening";
+// }
+//  else if (currentTime > 12 && currentTime < 18) {
+//   greeting = "Good Afternoon";
+//  }
+//   else if (currentTime >= 0 && currentTime < 12) {
+//     greeting = "Good Morning";
+//   }
+//    else {
+//     greeting = "Not a valid time";
+// }
+// console.log(greeting);
+// weekDay = 9;
+// day = null;
+// Switch(weekDay) {
+//     case 1, day = "Monday";
+//     break;
+//     case 2, day = "Tuesday";
+//     break;
+//     case 3, day = "Wednesday";
+//     break;
+//     case 4, day = "Thursday";
+//     break;
+//     case 5, day = "Friday";
+//     break;
+//     case 6, day = "Saturday";
+//     break;
+//     case 7, day = "Sunday";
+//     break;
+//     default: day = "not a valid day";
+// };
+// console.log(day);
+
